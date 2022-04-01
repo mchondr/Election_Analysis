@@ -1,0 +1,40 @@
+# Election analysis
+
+## Overview of Election Audit
+On March 20th 2022, I received a request from the Colorado Board of Election to audit the results of a recent congressional election in the State of Colorado. The specific goals of the project were the following: 
+	- To calculate the total number of the votes casted.
+	- To assemble a complete list of candidates. 
+	- To calculate the total absolute and relative number of the votes casted for each candidate.
+	- To determine the winner of the election based on the popular vote.
+	- To assemble a complete list of counties in the electoral region. 
+	- To calculate the total absolute and relative number of the votes casted at each county.
+	- To determine the county with highest turnout rate.
+
+
+
+## Election-Audit Results 
+The results of the analysis is presented below: 
+
+1. There were 369,711 votes cast in this congressional election. 
+
+2. The breakdown of the votes  for each county in the precinct is presented below:
+	-Jefferson county accumulated 10.5% of the vote and 38,855 votes. 
+	-Denver county accumulated 82.8% of the vote and 306,055 votes. 
+	-Arapahoe county accumulated 6.7% of the vote and 24,801 votes. 
+
+3. The county had the largest number of votes was Denver.
+
+
+4. The candidate results were: 	
+	-Diana DeGette received 73.8% of the vote and 272,892 votes. 
+	-Charles Casper Stockham received 23.0% of the vote and 5,213 votes.
+	-Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
+
+
+5. The winner of the election is Diana DeGette, who received 73.8% of the vote and 272,892 votes. 
+
+
+## Election-Audit Summary
+The results of this audit support Diana DeGette is the winner of the election and Denver was the county with the highest turn out. 
+During this audit we created versatile code using the Python programming language. This code is very versatile and easy to use. Thus, it can be easily used as is in future elections provided that the election results will continue to be compiled in the same fashion.
+Should one intents to used the code developed in a different type of elections (i.e., national elections or other local elections), minor modifications will be necessary (including variables, other data structures, etc.).
